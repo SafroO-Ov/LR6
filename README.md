@@ -49,3 +49,6 @@ mkdir photo_laba
 
 ### История операций в форматированном виде
 ![История](https://github.com/SafroO-Ov/LR6/blob/report/photo_lab/История.jpg)
+
+### Демонстрация оформления README
+![README](https://github.com/SafroO-Ov/LR6/blob/report/photo_lab/Работа над README.png)
