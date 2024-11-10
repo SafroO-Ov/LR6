@@ -46,3 +46,6 @@ git status
 git checkout -- file.txt
 mkdir photo_laba
 ```
+
+### История операций в форматированном виде
+![История](https://github.com/SafroO-Ov/LR6/blob/report/photo_lab/История.jpg)
