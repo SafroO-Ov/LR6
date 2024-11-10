@@ -51,4 +51,4 @@ mkdir photo_laba
 ![История](https://github.com/SafroO-Ov/LR6/blob/report/photo_lab/История.jpg)
 
 ### Демонстрация оформления README
-![README](https://github.com/SafroO-Ov/LR6/blob/report/photo_lab/Работа над README.png)
+![Работа над README](https://github.com/SafroO-Ov/LR6/blob/report/photo_lab/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BD%D0%B0%D0%B4%20README.png)
